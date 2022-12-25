@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imane Chakir</h1>
 <h3 align="center">As a driven and ambitious applications developer with a focus on DEVOPS, I am always looking for ways to expand my skillset and take on new challenges. Although I have not yet had the opportunity to work in the field full-time, I have gained valuable experience through internships and side projects. I am committed to continuous learning and staying current with the latest developments in the industry. I am eager to apply my knowledge and abilities to real-world projects and make a meaningful impact in the field.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imanechakir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanechakir3" height="30" width="40" /></a>
